@@ -12,6 +12,8 @@ body{
     justify-content: center;
     align-items: center;/*垂直居中*/
     background-image: url('image/index_background.jpg');
+    background-repeat:no-repeat;
+    background-position:right top;
 }
 img{
     vertical-align: bottom;
