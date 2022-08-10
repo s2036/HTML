@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;/*垂直居中*/
     background-size: 100% 100%;
-    background-image: url('../image/index_background2.jpg');
+    background-image: url('../image/index_background.jpg');
     background-repeat:no-repeat;
     background-position:right top;
 }
@@ -22,15 +22,18 @@ img{
 h1{
     margin: 40px;
     font-size: 80px;
-    display: flex;
-    /* 主轴-x轴：居中 */
-    justify-content: center;
+    text-align: center;
     background-image:-webkit-linear-gradient(top,rgb(0, 153, 255),#0314fd,rgb(55, 0, 255)); 
     -webkit-background-clip:text; 
     -webkit-text-fill-color:transparent;
 }
+p{
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: azure;
+}
 .subject{
-    width: 100%;
     /* background-color: aquamarine; */
 }
 .search{
