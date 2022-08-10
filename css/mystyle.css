@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;/*垂直居中*/
     background-size: 100% 100%;
-    background-image: url('../image/index_background.jpg');
+    background-image: url('../image/index_background2.jpg');
     background-repeat:no-repeat;
     background-position:right top;
 }
