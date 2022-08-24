@@ -65,7 +65,8 @@ main{
     min-width: 1024px;
 }
 .entry{
-    height: 90vh;
+    height: 96vh;
+    min-height: 500px;
     margin-bottom: 12px;
 }
 .entry h1{
@@ -81,14 +82,14 @@ main{
     text-align: center;
 }
 .search{
-    padding: 10%;
+    padding: 22vh;
 }
 .searchbox{
     width: 800px;
     height: 40px;
     margin: auto;
     display: flex;
-    margin-top: 10%;
+    margin-top: 22vh;
 }
 .searchbutton{
     width: 80px;
